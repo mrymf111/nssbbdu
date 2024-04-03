@@ -277,13 +277,15 @@ digitalPosterName = [
 electionSpeech = [
   "9336709002",
   "8881473233",
-  "8917845002"
+  "8917845002",
+  "7524872100"
 ];
 
 electionSpeechName = [
   "Mariyam Fatima Rizvi",
   "Aapa",
-  "Neelank Rao"
+  "Neelank Rao",
+  "Abhishek"
 ];
 
 
