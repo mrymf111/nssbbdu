@@ -276,16 +276,35 @@ digitalPosterName = [
 
 electionSpeech = [
   "9336709002",
-  "8881473233",
-  "8917845002",
-  "7524872100"
+  "AS1111",
+  "DG2222",
+  "AV3333",
+  "NM4444",
+  "SM5555",
+  "HG6666",
+  "RR7777",
+  "DS8888",
+  "YS9999",
+  "KC0000",
+  "KS0011"
+
+
 ];
 
 electionSpeechName = [
   "Mariyam Fatima Rizvi",
-  "Aapa",
-  "Neelank Rao",
-  "Abhishek"
+  "Ankush Srivastava",
+  "Deepak Gupta",
+  "Abhishek Vishwakarma",
+  "Neha Mishra",
+  "Shruti Mishra",
+  "Himanshu Gupta",
+  "Rajan Rai",
+  "Disha Singh",
+  "Yashika Singh Tomar",
+  "Kirti Chaurasia",
+  "Kirtika Singh"
+
 ];
 
 
